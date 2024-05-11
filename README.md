@@ -1,7 +1,5 @@
-<h1 align="center">💼 Decoi</h1>
-<h3 align="center">Contact me at « decoi@airmail.cc »</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decoi444" alt="decoi444" /></a> </p>
+<h1 align="center">💼 DECOI</h1>
+<h3 align="center">Contact me at decoi@airmail.cc</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoi444&show_icons=true&locale=en&layout=compact" alt="decoi444" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=decoi444&show_icons=true&locale=en" alt="decoi444" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=decoi444&" alt="decoi444" /></p>
