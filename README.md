@@ -1,4 +1,4 @@
-<h1 align="center">💼 DECOI</h1>
+<h1 align="center">💼 Decoi</h1>
 <h3 align="center">Contact me at « decoi@airmail.cc »</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decoi444" alt="decoi444" /></a> </p>
